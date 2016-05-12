@@ -7,7 +7,16 @@ import com.bitdubai.fermat_ccp_api.layer.wallet_module.crypto_wallet.interfaces.
 import java.util.UUID;
 
 /**
- * Created by Matias Furszyfer on 2015.09.17..
+ * The class <code>CryptoWalletWalletModulePaymentRequest</code>
+ * haves all consumable methods of a crypto wallet module payment request.
+ *
+ * A Crypto Wallet Module Payment Request contains all the basic information of the PaymentRequest
+ * <p/>
+ * Created by Matias Furszyfer on 2015.09.17.
+ *
+ * @author furszy
+ * @version 1.0
+ * @since Java JDK 1.7
  */
 public class CryptoWalletWalletModulePaymentRequest implements PaymentRequest{
 

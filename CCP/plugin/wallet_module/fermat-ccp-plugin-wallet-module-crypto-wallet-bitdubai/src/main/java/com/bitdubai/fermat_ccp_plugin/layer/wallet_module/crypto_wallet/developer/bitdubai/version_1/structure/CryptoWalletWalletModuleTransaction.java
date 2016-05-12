@@ -19,6 +19,20 @@ import java.util.UUID;
  * Created by Leon Acosta - (laion.cj91@gmail.com) on 11/07/15.
  * @version 1.0
  */
+
+
+/**
+ * The class <code>CryptoWalletWalletModuleTransaction</code>
+ * haves all consumable methods of a crypto wallet module transaction.
+ *
+ * A Crypto Wallet Module Transaction contains all the basic information of Transaction.
+ * <p/>
+ * Created by Leon Acosta - (laion.cj91@gmail.com) on 11/07/15.
+ *
+ * @author lnacosta
+ * @version 1.0
+ * @since Java JDK 1.7
+ */
 public class CryptoWalletWalletModuleTransaction implements CryptoWalletTransaction {
 
     private final UUID                     contactId;

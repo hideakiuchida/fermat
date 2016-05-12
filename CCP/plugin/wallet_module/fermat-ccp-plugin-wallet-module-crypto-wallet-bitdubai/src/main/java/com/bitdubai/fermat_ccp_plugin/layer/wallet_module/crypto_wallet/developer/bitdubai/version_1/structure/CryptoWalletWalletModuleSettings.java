@@ -4,7 +4,16 @@ import com.bitdubai.fermat_api.layer.modules.common_classes.ActiveActorIdentityI
 import com.bitdubai.fermat_api.layer.modules.interfaces.FermatSettings;
 
 /**
- * Created by Matias Furszyfer on 2015.12.22..
+ * The class <code>CryptoWalletWalletModuleSettings</code>
+ * haves all consumable methods of a crypto wallet module settings.
+ *
+ * A Crypto Wallet Module Settings contains all the basic information of Settings
+ * <p/>
+ * Created by Matias Furszyfer on 2015.09.22.
+ *
+ * @author furszy
+ * @version 1.0
+ * @since Java JDK 1.7
  */
 public class CryptoWalletWalletModuleSettings implements FermatSettings, com.bitdubai.fermat_ccp_api.layer.wallet_module.crypto_wallet.interfaces.CryptoWalletWalletModuleSettings {
 

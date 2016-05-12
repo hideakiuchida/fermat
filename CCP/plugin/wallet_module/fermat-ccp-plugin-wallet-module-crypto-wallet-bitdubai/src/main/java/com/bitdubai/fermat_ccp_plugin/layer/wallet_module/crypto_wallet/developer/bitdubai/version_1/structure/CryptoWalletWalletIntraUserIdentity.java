@@ -3,7 +3,16 @@ package com.bitdubai.fermat_ccp_plugin.layer.wallet_module.crypto_wallet.develop
 import com.bitdubai.fermat_ccp_api.layer.wallet_module.crypto_wallet.interfaces.CryptoWalletIntraUserIdentity;
 
 /**
+ * The class <code>CryptoWalletWalletIntraUserIdentity</code>
+ * haves all consumable methods of a crypto wallet intra user identity.
+ *
+ * A Crypto Wallet Intra User Identity contains all the basic information of the User
+ * <p/>
  * Created by natalia on 01/10/15.
+ *
+ * @author nattyco
+ * @version 1.0
+ * @since Java JDK 1.7
  */
 public class CryptoWalletWalletIntraUserIdentity  implements CryptoWalletIntraUserIdentity {
 
